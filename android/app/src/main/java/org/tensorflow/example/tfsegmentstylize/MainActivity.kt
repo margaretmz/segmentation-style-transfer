@@ -1,8 +1,8 @@
-package org.tensorflow.example.tfsegementstylize
+package org.tensorflow.example.tfsegmentstylize
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import org.tensorflow.example.tfsegementstylize.ui.main.MainFragment
+import org.tensorflow.example.tfsegmentstylize.ui.main.MainFragment
 
 class MainActivity : AppCompatActivity() {
 

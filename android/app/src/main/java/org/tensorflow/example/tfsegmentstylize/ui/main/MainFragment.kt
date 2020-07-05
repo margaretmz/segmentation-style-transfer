@@ -1,4 +1,4 @@
-package org.tensorflow.example.tfsegementstylize.ui.main
+package org.tensorflow.example.tfsegmentstylize.ui.main
 
 import androidx.lifecycle.ViewModelProviders
 import android.os.Bundle
@@ -6,7 +6,7 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import org.tensorflow.example.tfsegementstylize.R
+import org.tensorflow.example.tfsegmentstylize.R
 
 class MainFragment : Fragment() {
 

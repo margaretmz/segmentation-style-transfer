@@ -1,4 +1,4 @@
-package org.tensorflow.example.tfsegementstylize.ui.main
+package org.tensorflow.example.tfsegmentstylize.ui.main
 
 import androidx.lifecycle.ViewModel
 
