@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TF Segment + Stylize</string>
+    <string name="switch_camera_button_alt">Switch camera</string>
+    <string name="capture_button_alt">Capture image</string>
 </resources>
