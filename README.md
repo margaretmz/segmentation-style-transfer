@@ -9,12 +9,12 @@ For example, [segmentation plus style transfer]; or segmentation plus background
  <img src="images/style_transfer.gif" />
 </p>
 
-Demo created by [Sayak Paul](https://github.com/sayakpaul)
+Demo created by [Sayak Paul](https://github.com/sayakpaul) ([Colab Notebook](https://colab.research.google.com/github/sayakpaul/Adventures-in-TensorFlow-Lite/blob/master/Semantic_Segmentation_%2B_Background_Removal_%2B_Style_Transfer.ipynb))
 <p align="center">
  <img src="images/sayak_demo.png" width='742'/>
 </p>
 
-Demo created by [Khanh LeViet](https://github.com/khanhlvg)
+Demo created by [Khanh LeViet](https://github.com/khanhlvg) ([Colab Notebook](https://colab.research.google.com/drive/1KZpmuwBfLZM_0mzUyX2W-xcNq26jCNtn))
 <p align="center">
  <img src="images/khanh_demo.png" width='742'/>
 </p>
