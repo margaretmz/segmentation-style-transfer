@@ -11,12 +11,12 @@ Project team: [Sayak Paul](https://github.com/sayakpaul), [Khanh LeViet](https:/
  <img src="images/style_transfer.gif" />
 </p>
 
-Demo created by Sayak Paul
+Demo created by Sayak Paul ([Colab Notebook](https://colab.research.google.com/github/sayakpaul/Adventures-in-TensorFlow-Lite/blob/master/Semantic_Segmentation_%2B_Background_Removal_%2B_Style_Transfer.ipynb))
 <p align="center">
  <img src="images/sayak_demo.png" width='742'/>
 </p>
 
-Demo created by Khanh LeViet
+Demo created by Khanh LeViet ([Colab Notebook](https://colab.research.google.com/drive/1KZpmuwBfLZM_0mzUyX2W-xcNq26jCNtn))
 <p align="center">
  <img src="images/khanh_demo.png" width='742'/>
 </p>
