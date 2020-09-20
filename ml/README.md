@@ -3,8 +3,12 @@ We use [DeepLab](https://github.com/tensorflow/models/tree/master/research/deepl
 
 These models can be found on [TensorFlow Hub](https://tfhub.dev/s?deployment-format=lite&module-type=image-segmentation).  **Note** that some of these models are [metadata](https://www.tensorflow.org/lite/convert/metadata)-populated. 
 
-## Model Conversion Notebooks
-Model conversion notebooks are available [here](https://github.com/sayakpaul/Adventures-in-TensorFlow-Lite/blob/master/DeepLabV3). 
+## TensorFlow Lite Style-transfer Models
+These models can be found on [TensorFlow Hub](https://tfhub.dev/s?deployment-format=lite&module-type=image-style-transfer).  **Note** that some of these models are [metadata](https://www.tensorflow.org/lite/convert/metadata)-populated. 
 
-## Model Benchmark
+## Model Conversion Notebooks
+* Segmentation model conversion notebooks are available [here](https://github.com/sayakpaul/Adventures-in-TensorFlow-Lite/blob/master/DeepLabV3). 
+* Style-transfer model conversion notebook is available [https://github.com/sayakpaul/Adventures-in-TensorFlow-Lite/blob/master/Magenta_arbitrary_style_transfer_model_conversion.ipynb]. 
+
+## Model Benchmarks
 TO BE UPDATED SOON
