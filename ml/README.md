@@ -8,7 +8,7 @@ These models can be found on [TensorFlow Hub](https://tfhub.dev/s?deployment-for
 
 ## Model Conversion Notebooks
 * Segmentation model conversion notebooks are available [here](https://github.com/sayakpaul/Adventures-in-TensorFlow-Lite/blob/master/DeepLabV3). 
-* Style-transfer model conversion notebook is available [https://github.com/sayakpaul/Adventures-in-TensorFlow-Lite/blob/master/Magenta_arbitrary_style_transfer_model_conversion.ipynb]. 
+* Style-transfer model conversion notebook is available (here)[https://github.com/sayakpaul/Adventures-in-TensorFlow-Lite/blob/master/Magenta_arbitrary_style_transfer_model_conversion.ipynb]. 
 
 ## Model Benchmarks
 TO BE UPDATED SOON
