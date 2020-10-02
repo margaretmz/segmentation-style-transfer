@@ -14,13 +14,13 @@ These models can be found on [TensorFlow Hub](https://tfhub.dev/s?deployment-for
 
 **Stylization**
 
-<div align="center"><img src="https://i.ibb.co/Kmph83z/Screen-Shot-2020-10-02-at-3-01-41-PM.png"></img></div>
+<div align="center"><img src="https://i.ibb.co/nmDtsNc/Screen-Shot-2020-10-02-at-3-19-16-PM.png"></img></div>
 
-<div align="center"><img src="https://i.ibb.co/FgVQr48/Screen-Shot-2020-10-02-at-3-01-56-PM.png"></img></div>
+<div align="center"><img src="https://i.ibb.co/ZG7XDBT/Screen-Shot-2020-10-02-at-3-19-25-PM.png"></img></div>
 
 **Semantic Segmentation**
 
-<div align="center"><img src="https://i.ibb.co/Dg8wF0z/Screen-Shot-2020-10-02-at-3-02-22-PM.png"></img></div>
+<div align="center"><img src="https://i.ibb.co/kgYrQ97/Screen-Shot-2020-10-02-at-3-19-34-PM.png"></img></div>
 
-<div align="center"><img src="https://i.ibb.co/Jm7VtnG/Screen-Shot-2020-10-02-at-3-02-34-PM.png"></img></div>
+<div align="center"><img src="https://i.ibb.co/Zcm1R32/Screen-Shot-2020-10-02-at-3-19-47-PM.png"></img></div>
 
