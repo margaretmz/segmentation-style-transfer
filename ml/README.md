@@ -12,7 +12,7 @@ These models can be found on [TensorFlow Hub](https://tfhub.dev/s?deployment-for
 
 ## Model Benchmarks
 
-This section presents a comprehensive comparison between different segmentation and stylization models in terms of inference latency and model size.
+This section presents a comprehensive comparison between different segmentation and stylization models in terms of inference latency and model size. Benchmarking was performed using the [TensorFlow Lite Benchmark tool](https://www.tensorflow.org/lite/performance/measurement). 
 
 ### Semantic Segmentation
 
