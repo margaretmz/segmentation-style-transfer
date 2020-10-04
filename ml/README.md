@@ -12,17 +12,7 @@ These models can be found on [TensorFlow Hub](https://tfhub.dev/s?deployment-for
 
 ## Model Benchmarks
 
-This section presents a comprehensive comparison between different stylization and segmentation models in terms of inference latency and model size.
-
-### Stylization
-
-**Inference Time (ms)**
-
-<div align="center"><img src="https://i.ibb.co/nmDtsNc/Screen-Shot-2020-10-02-at-3-19-16-PM.png"></img></div>
-
-**Size (MB)**
-
-<div align="center"><img src="https://i.ibb.co/ZG7XDBT/Screen-Shot-2020-10-02-at-3-19-25-PM.png"></img></div>
+This section presents a comprehensive comparison between different segmentation and stylization models in terms of inference latency and model size.
 
 ### Semantic Segmentation
 
@@ -33,3 +23,13 @@ This section presents a comprehensive comparison between different stylization a
 **Size (MB)**
 
 <div align="center"><img src="https://i.ibb.co/Zcm1R32/Screen-Shot-2020-10-02-at-3-19-47-PM.png"></img></div>
+
+### Stylization
+
+**Inference Time (ms)**
+
+<div align="center"><img src="https://i.ibb.co/nmDtsNc/Screen-Shot-2020-10-02-at-3-19-16-PM.png"></img></div>
+
+**Size (MB)**
+
+<div align="center"><img src="https://i.ibb.co/ZG7XDBT/Screen-Shot-2020-10-02-at-3-19-25-PM.png"></img></div>
