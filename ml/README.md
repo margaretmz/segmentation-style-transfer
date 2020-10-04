@@ -18,7 +18,7 @@ This section presents a comprehensive comparison between different segmentation 
 
 **Inference Time (ms)**
 
-<div align="center"><img src="https://i.ibb.co/kgYrQ97/Screen-Shot-2020-10-02-at-3-19-34-PM.png"></img></div>
+<div align="center"><img src="https://i.ibb.co/gRsnCHX/Screen-Shot-2020-10-04-at-7-35-47-AM.png"></img></div>
 
 **Size (MB)**
 
