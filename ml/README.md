@@ -24,6 +24,10 @@ This section presents a comprehensive comparison between different segmentation 
 
 <div align="center"><img src="https://i.ibb.co/Zcm1R32/Screen-Shot-2020-10-02-at-3-19-47-PM.png"></img></div>
 
+Additionally, we benchmarked an official TensorFlow Lite model for performing semantic segmentation. This model is based on a MobileNetV2 backbone with a depth multiplier 0.5 but trained on resolutions of 257$\times$257 images - 
+
+<div align="center"><img src="https://i.ibb.co/Wxts0yb/image.png"></img></div>
+
 ### Stylization
 
 **Inference Time (ms)**
