@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#FFA65C</color>-->
+    <color name="colorPrimary">#858585</color>
+    <color name="colorPrimaryDark">#dc9b00</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="icActive">#FFFFFFFF</color>
+    <color name="icFocused">#DDFFFFFF</color>
+    <color name="icPressed">#AAFFFFFF</color>
+    <color name="semi_transparent">#66000000</color>
+
+    <color name="light_gray">#dbdbdb</color>
+    <color name="dark_gray">#858585</color>
+</resources>

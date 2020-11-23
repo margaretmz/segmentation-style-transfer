@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BackgroundStylizer</string>
+    <string name="about">"DeeplabV3 model"</string>
+    <string name="tflite_model" translatable="false">TFLite Model:</string>
+    <string name="share_button_alt">Share</string>
+    <string name="save_button_alt">Save</string>
+    <string name="switch_camera">Switch camera</string>
+    <string name="open_image_gallery">open image gallery</string>
+    <string name="koinStyle">koinStyle</string>
+    <string name="choose_a_style" translatable="false">Choose a Style</string>
+    <string name="aboutSyleTransfer">Style Transfer procedure</string>
+
+</resources>

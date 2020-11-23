@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/permissions_fragment">
+
+    <!-- 1. Check camera permission -->
+    <fragment
+        android:id="@+id/permissions_fragment"
+        android:name="com.e2etflite.sample.backgroundstylizer.ui.camera.PermissionsFragment"
+        android:label="PermissionsFragment"
+        tools:layout="@layout/fragment_camera">
+
+        <action
+            android:id="@+id/action_permissions_to_camera"
+            app:destination="@id/camera_fragment"
+            app:popUpTo="@id/nav_graph" />
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/camera_fragment"
+        android:name="com.e2etflite.sample.backgroundstylizer.ui.camera.CameraFragment"
+        android:label="CameraFragment"
+        tools:layout="@layout/fragment_camera">
+
+        <action
+            android:id="@+id/action_camera_to_selfie2segmentation"
+            app:destination="@id/selfie2segmentation_fragment" />
+
+        <action
+            android:id="@+id/action_camera_to_permissions"
+            app:destination="@id/permissions_fragment"
+            app:popUpTo="@id/camera_fragment"
+            app:popUpToInclusive="true"/>
+
+    </fragment>
+
+    <!-- 3. Run inference on original image Bitmap and create output image -->
+    <!-- Display both original input and translated output images in UI -->
+    <fragment
+        android:id="@+id/selfie2segmentation_fragment"
+        android:name="com.e2etflite.sample.backgroundstylizer.ui.segmentation.SegmentationAndStyleTransferFragment"
+        android:label="Selfie2SegmentationFragment">
+        <argument
+            android:name="root_dir"
+            app:argType="string" />
+        <action
+            android:id="@+id/back_home"
+            app:popUpTo="@id/camera_fragment"/>
+    </fragment>
+
+</navigation>
