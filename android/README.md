@@ -5,7 +5,7 @@ This is an Android sample app that stylize the background of an image.
 Please read the detailed instructions on how to create the application in this blog post on Medium (TODO: add link)
 
 ## TensorFlow Lite Model
-The TensorFlow Lite Models used in the Android app can be found under the [/ml](./ml) folder.
+The TensorFlow Lite Models used in the Android app can be found under the [/ml](../ml) folder.
 
 ## Requirements
 * Install Android Studio 4.1.1 from [here](https://developer.android.com/studio).
