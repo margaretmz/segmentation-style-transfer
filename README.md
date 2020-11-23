@@ -1,4 +1,4 @@
-# Segmentation & Style Transfer - Background Stylizer
+# Background Stylizer - with Segmentation & Style Transfer
 
 This is the GitHub repo for an end-to-end tutorial from TFLite model conversion, to model deployment on an Android and iOS. 
 Links to the multi-part tutorial on Medium:
