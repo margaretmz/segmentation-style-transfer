@@ -1,7 +1,15 @@
-# Segmentation & Style Transfer
-Segmentation &amp; Style Transfer
+# Segmentation & Style Transfer - Background Stylizer
 
-Combining multiple CV models to create visually appealing demo that run in real time on device. 
+This is the GitHub repo for an end-to-end tutorial from TFLite model conversion, to model deployment on an Android and iOS. 
+Links to the multi-part tutorial on Medium:
+
+Links to blog posts (TODO: add links):
+1. Project Intro, Margaret Maynard-Reid
+2. TensorFlow Lite models, Sayak Paul
+3. Android implementation, George Soloupis
+4. iOS implementation, Patrick Haralabidis
+
+This project combines multiple CV models to create visually appealing demo that run in real time on device. 
 For example, [segmentation plus style transfer]; or segmentation plus background removal ([1](https://ai.googleblog.com/2018/03/mobile-real-time-video-segmentation.html) | [2](https://twitter.com/jason_mayes/status/1229547600895823873))
 
 <p align="center">
