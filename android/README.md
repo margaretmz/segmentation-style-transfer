@@ -22,6 +22,6 @@ The TensorFlow Lite Models used in the Android app can be found under the [/ml](
 * On the second screen, choose a thumbnail image for stylizing the background.
 
 ## Download the app apk
-If you are not familar with building the app in Android and would like to just try out the app, please download the apk file from the [build/outputs/apk/debug/](app/build/outputs/apk/debug) folder.   
+If you are not familar with building the app in Android and would like to just try out the app, please download the apk file from the [app/release/](app/release/) folder.   
 
 Note: you will need to grant permission to install unknown apps from your Android device security settings. 
