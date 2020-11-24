@@ -4,9 +4,9 @@ This is the GitHub repo for an end-to-end tutorial from TFLite model conversion,
 Links to the multi-part tutorial on Medium:
 
 Links to blog posts:
-1. [Project Intro, Margaret Maynard-Reid](https://medium.com/@margaretmz/image-background-stylizer-part-1-project-intro-d68c4547e7e3)
-2. [TensorFlow Lite models, Sayak Paul](https://medium.com/@spsayakpaul/e614af91944d)
-3. [Android implementation, George Soloupis](https://farmaker47.medium.com/android-part-of-create-artistic-effect-by-stylizing-an-image-segment-2a646da2d39a)
+1. [Project Intro](https://medium.com/@margaretmz/image-background-stylizer-part-1-project-intro-d68c4547e7e3), [Margaret Maynard-Reid](https://twitter.com/margaretmz)
+2. [TensorFlow Lite models](https://medium.com/@spsayakpaul/e614af91944d), [Sayak Paul](https://twitter.com/RisingSayak)
+3. [Android implementation](https://farmaker47.medium.com/android-part-of-create-artistic-effect-by-stylizing-an-image-segment-2a646da2d39a), [George Soloupis](https://www.linkedin.com/in/george-soloupis/)
 4. iOS implementation, Patrick Haralabidis (coming soon)
 
 This project combines multiple CV models to create visually appealing demo that run in real time on device. 
