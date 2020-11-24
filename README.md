@@ -3,11 +3,11 @@
 This is the GitHub repo for an end-to-end tutorial from TFLite model conversion, to model deployment on an Android and iOS. 
 Links to the multi-part tutorial on Medium:
 
-Links to blog posts (TODO: add links):
-1. Project Intro, Margaret Maynard-Reid
-2. TensorFlow Lite models, Sayak Paul
-3. Android implementation, George Soloupis
-4. iOS implementation, Patrick Haralabidis
+Links to blog posts:
+1. [Project Intro, Margaret Maynard-Reid](https://medium.com/@margaretmz/image-background-stylizer-part-1-project-intro-d68c4547e7e3)
+2. [TensorFlow Lite models, Sayak Paul](https://medium.com/@spsayakpaul/e614af91944d)
+3. [Android implementation, George Soloupis](https://farmaker47.medium.com/android-part-of-create-artistic-effect-by-stylizing-an-image-segment-2a646da2d39a)
+4. iOS implementation, Patrick Haralabidis (coming soon)
 
 This project combines multiple CV models to create visually appealing demo that run in real time on device. 
 For example, [segmentation plus style transfer]; or segmentation plus background removal ([1](https://ai.googleblog.com/2018/03/mobile-real-time-video-segmentation.html) | [2](https://twitter.com/jason_mayes/status/1229547600895823873))
