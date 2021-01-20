@@ -9,7 +9,7 @@ Links to blog posts:
 3. [Android implementation](https://farmaker47.medium.com/android-part-of-create-artistic-effect-by-stylizing-an-image-segment-2a646da2d39a), [George Soloupis](https://www.linkedin.com/in/george-soloupis/)
 4. iOS implementation, Patrick Haralabidis (coming soon)
 
-This project combines multiple CV models to create visually appealing demo that run in real time on device. 
+This project combines multiple CV models to create visually appealing demo that run in real time on device. For its creativity and real-world relevance, the project got the [#TFCommunitySpotlight award](https://twitter.com/TensorFlow/status/1351590466068783105).
 For example, [segmentation plus style transfer]; or segmentation plus background removal ([1](https://ai.googleblog.com/2018/03/mobile-real-time-video-segmentation.html) | [2](https://twitter.com/jason_mayes/status/1229547600895823873))
 
 <p align="center">
