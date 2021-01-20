@@ -9,13 +9,14 @@ Links to blog posts:
 3. [Android implementation](https://farmaker47.medium.com/android-part-of-create-artistic-effect-by-stylizing-an-image-segment-2a646da2d39a), [George Soloupis](https://www.linkedin.com/in/george-soloupis/)
 4. iOS implementation, Patrick Haralabidis (coming soon)
 
-This project combines multiple CV models to create visually appealing demo that run in real time on device. For its creativity and real-world relevance, the project got the [#TFCommunitySpotlight award](https://twitter.com/TensorFlow/status/1351590466068783105).
-For example, [segmentation plus style transfer]; or segmentation plus background removal ([1](https://ai.googleblog.com/2018/03/mobile-real-time-video-segmentation.html) | [2](https://twitter.com/jason_mayes/status/1229547600895823873))
+This project combines multiple CV models to create visually appealing demo that run in real time on device. For example, [segmentation plus style transfer]; or segmentation plus background removal ([1](https://ai.googleblog.com/2018/03/mobile-real-time-video-segmentation.html) | [2](https://twitter.com/jason_mayes/status/1229547600895823873))
 
 <p align="center">
  <img src="images/segmentation.png" width='680'/>
  <img src="images/style_transfer.gif" />
 </p>
+
+For its creativity and real-world relevance, the project got the [#TFCommunitySpotlight award](https://twitter.com/TensorFlow/status/1351590466068783105).
 
 Demo created by [Sayak Paul](https://github.com/sayakpaul) ([Colab Notebook](https://colab.research.google.com/github/sayakpaul/Adventures-in-TensorFlow-Lite/blob/master/Semantic_Segmentation_%2B_Background_Removal_%2B_Style_Transfer.ipynb))
 <p align="center">
